@@ -1,0 +1,16 @@
+.Todo {
+  margin: 15px;
+  padding: 5px;
+}
+
+.Todo li {
+  color: midnightblue;
+  margin-bottom: 5px;
+}
+
+.Todo button {
+  margin-right: 5px;
+  color: ghostwhite;
+  background-color: midnightblue;
+  font-weight: bolder;
+}

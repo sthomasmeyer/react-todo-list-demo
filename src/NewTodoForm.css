@@ -1,0 +1,21 @@
+.NewTodoForm {
+  margin: 25px;
+}
+
+.NewTodoForm label {
+  color: midnightblue;
+  font-weight: bolder;
+}
+
+.NewTodoForm input {
+  padding: 2.5px;
+  margin-bottom: 10px;
+}
+
+.NewTodoForm button {
+  padding: 5px;
+  border-radius: 15%;
+  color: ghostwhite;
+  background-color: midnightblue;
+  font-weight: bolder;
+}
